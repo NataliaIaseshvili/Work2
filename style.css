@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+.son{
+    font-size: 70px;
+    color: antiquewhite;
+    font-family: 'Sriracha', cursive;
+}
+table{
+    background: rgb(28,212,70);
+    background: linear-gradient(90deg, rgba(28,212,70,1) 13%, rgba(212,212,21,1) 54%, rgba(212,19,144,1) 95%, rgba(212,14,212,1) 100%, rgba(212,24,60,1) 100%, rgba(17,212,150,1) 100%);
+}
+body{
+    background-image:url(https://img2.akspic.ru/crops/8/6/3/0/5/150368/150368-priroda-biom-noch-zemlya-dymka-3840x2160.jpg);
+    background-size: cover;
+}
+.bbb{
+    font-size: 40px;
+}
+.aaa{
+    height: 300px;
+    width: 350px;
+}
+.ccc{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.aaa:hover{
+    transition: 0.1s;
+    background: rgb(28,212,70);
+    background: linear-gradient(90deg, rgba(28,212,70,1) 13%, rgba(212,212,21,1) 54%, rgba(212,19,144,1) 95%, rgba(212,14,212,1) 100%, rgba(212,24,60,1) 100%, rgba(17,212,150,1) 100%);
+    padding: 10px 10px 10px 10px;
+    border: 6px solid black;
+}
+a{
+    font-size: 55px;
+    color: antiquewhite;
+    font-family: 'Sriracha', cursive;
+    margin: 5px 38%;
+}
